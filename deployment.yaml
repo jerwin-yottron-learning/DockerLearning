@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata: 
-  name: formula-app-deployment
+  name: formula-app-second-deployment
   annotations: 
     kubernetes.io/change-cause: "initial deployment of the app"
 spec:
@@ -18,7 +18,7 @@ spec:
     spec: 
       containers:
       - name: formula-app
-        image: jerwin26/formulak8s:v1
+        image: jerwin26/k8simage
         ports:
           - containerPort: 80
             name: http-web-api
