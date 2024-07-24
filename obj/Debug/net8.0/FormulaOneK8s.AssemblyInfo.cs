@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormulaOneK8s")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5afd391f69277c7faa1b9ea2848f0c802cf21cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormulaOneK8s")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormulaOneK8s")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
